@@ -12,5 +12,9 @@
   7. 下一步是连接远层仓库，复制远层仓库地址，然后在Git base 输入`git remote add origin 远层仓库地址`,如果出现错误，输入`git remote rm origin`,然后重新输入；
   8.最后是将文件推送到GitHub，即输入`git push -u origin master`,然后刷新GitHub就可以看到相应文件了。
   
+  ---
+  ---
+  [具体参考网址:](https://www.bilibili.com/video/av85273305)
+  
 
 
